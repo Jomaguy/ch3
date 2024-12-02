@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [02/Dec/2024:12:25:15 -0500] "GET /my-web-app/Controller HTTP/1.1" 200 626 http-bio-8080-exec-1 492
+0:0:0:0:0:0:0:1 - - [02/Dec/2024:12:25:23 -0500] "GET /my-web-app/Controller?hobby=Jonathan&aversion=mahrt&confirmButton=Confirm HTTP/1.1" 200 599 http-bio-8080-exec-3 53
+0:0:0:0:0:0:0:1 - - [02/Dec/2024:12:25:24 -0500] "GET /my-web-app/Controller?hobby=Jonathan&aversion=mahrt&processButton=Process HTTP/1.1" 200 466 http-bio-8080-exec-4 40
+0:0:0:0:0:0:0:1 - - [02/Dec/2024:12:25:26 -0500] "GET /my-web-app/Controller?hobby=Jonathan&aversion=mahrt&editButton=Edit HTTP/1.1" 200 610 http-bio-8080-exec-5 2
